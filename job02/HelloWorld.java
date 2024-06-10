@@ -1,4 +1,4 @@
-package jour02;
+package job02;
 // This is a single-line comment
 // The following code is a simple Java program that prints "Hello world" to the terminal
 

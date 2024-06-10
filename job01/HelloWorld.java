@@ -1,4 +1,4 @@
-package jour01;
+package job01;
 
 public class HelloWorld {
     public static void main(String[] args) {
